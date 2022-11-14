@@ -1,4 +1,4 @@
-- 👋 Hi, I’m XingDui
+- 👋 Hi, I’m Strawberry
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning algorithm
 - 💞️ I’m looking to collaborate on ...
